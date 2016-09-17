@@ -1,2 +1,3 @@
 # hello-world
 I figure it is about time for me to learn how github works, even if I still don't know how to code
+I am a Psychologist and a Learning Scientst.  Many many years ago I owned and Apple II+ computer that I bought from my Instructional Technology Professor and taught myself BASIC.  I even wrote a program using code I found in a magazine to teach keyboarding to the elementary school kids who I taught as part of being a computer instructor.  But my professor convinced me that my future was in learning rather than technology and convinced me to focus on that that instead and so I did.  I have hired some great coders over the years who have done amazing things for me, but it is really time for me to learn to code
